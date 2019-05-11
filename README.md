@@ -1,1 +1,1 @@
-# P390Server
+complier Mingw 64bit
